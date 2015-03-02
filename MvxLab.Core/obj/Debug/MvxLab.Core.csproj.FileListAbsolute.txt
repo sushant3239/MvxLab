@@ -1,0 +1,7 @@
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\bin\Debug\MvxLab.Core.dll
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\bin\Debug\MvxLab.Core.pdb
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\bin\Debug\Cirrious.CrossCore.dll
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\bin\Debug\Cirrious.MvvmCross.dll
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\obj\Debug\MvxLab.Core.dll
+c:\users\patilsu5\documents\visual studio 2013\Projects\MvxLab\MvxLab.Core\obj\Debug\MvxLab.Core.pdb

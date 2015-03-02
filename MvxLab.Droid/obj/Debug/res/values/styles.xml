@@ -1,0 +1,3 @@
+<resources><!--<style name="radioButtonStyle" parent="@android:style/Widget.CompundButton.RadioButton">
+    <item name="android:button">@android:style</item>
+  </style>--><style name="Mono.Android.Theme.Splash" parent="android:Theme"><item name="android:windowNoTitle">true</item></style></resources>

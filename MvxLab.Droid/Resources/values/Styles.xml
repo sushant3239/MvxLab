@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!--<style name="radioButtonStyle" parent="@android:style/Widget.CompundButton.RadioButton">
+    <item name="android:button">@android:style</item>
+  </style>-->
+</resources>
